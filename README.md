@@ -1,3 +1,4 @@
+
 # True Bluriz Technologies — Website
 
 A high-performance, SEO-optimized Next.js website with React Three Fiber 3D animations.
@@ -116,3 +117,6 @@ Create a 1200×630 image at `/public/og-image.jpg` for social sharing.
 - lg: 1024px (laptops)
 - xl: 1280px (desktops)
 - 2xl: 1536px (large screens)
+=======
+# truebluriztechnologies
+>>>>>>> 1ded09bac717c86b09826da20d8daa91266d3c13
